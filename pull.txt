@@ -1,5 +1,6 @@
 hello my name is fahim.
-i am learning github
-i am currently student at the Habiganj Polytechnic Institute.
-i am learning web development.
-I'm done mernstack
+i'm learning github
+i'm currently student at the Habiganj Polytechnic Institute.
+i'm learning web development.
+i'm done mernstack.
+i'm strong intersted in programing.
